@@ -1,0 +1,13 @@
+﻿cl : Command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  virtualLego.cpp
+c:\users\승규\desktop\공부\2학년2학기\oop\oop16_proj3\oop16_proj3\d3dUtility.h(23): warning C4005: 'INFINITY': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+virtualLego.cpp(200): warning C4305: 'initializing': truncation from 'double' to 'float'
+virtualLego.cpp(236): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+virtualLego.cpp(237): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+virtualLego.cpp(287): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+virtualLego.cpp(405): warning C4305: 'return': truncation from 'double' to 'float'
+virtualLego.cpp(934): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+virtualLego.cpp(935): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+virtualLego.cpp(832): warning C4101: 'i': unreferenced local variable
+  VirtualLego.vcxproj -> C:\Users\승규\Desktop\공부\2학년2학기\oop\oop16_proj3\oop16_proj3\.\Debug\VirtualLego.exe
